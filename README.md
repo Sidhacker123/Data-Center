@@ -1,0 +1,1 @@
+DATACENTER NETWORKS -> CODE WITH HOST, NETWORK, PACKET, LINK, PACKET, SWITCH with OOPs concept. Similation of diverse flow of packets from host and switches to server using ecmp function for a 54 host-3 tier fatree topology. Implemented DCTCP protocol for communication between packets in Data Centers
