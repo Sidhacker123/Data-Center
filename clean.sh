@@ -1,5 +1,4 @@
-# The code is subject to Purdue University copyright policies.
-# Do not share, distribute, or post online.
+
 
 #!/bin/bash
 
