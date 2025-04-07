@@ -1,6 +1,3 @@
-# The code is subject to Purdue University copyright policies.
-# Do not share, distribute, or post online.
-
 import filecmp
  
 d1 = "logs/"
